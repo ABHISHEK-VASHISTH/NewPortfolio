@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans&family=Poppins:ital,wght@0,200;0,400;0,600;1,100;1,200;1,400&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    display:flex;
+    
+}
+
+.sidebar{
+    padding: 72px;
+    color: aqua;
+    background-color: yellow;
+    width: 10vw;
+    font-family: 'Fira sans',sans-serif;
+   
+}
+
+.sidebar nav{
+    
+    
+}
+.sidebar nav li{
+    list-style: none;
+    font-size: 20px;
+
+}
+.main{
+    background-color: red;
+    width: 80%;
+   
+   
+}
